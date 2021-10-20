@@ -23,7 +23,7 @@ Every SparkPost Stored Template is assigned a unique Template ID, which is requi
 ### Examples 
 
 ```commandline
-convert_html_to_text.py your_api_key template_to_use
+python3 convert_html_to_text.py your_api_key template_to_use
 ```
 
 ```commandline
